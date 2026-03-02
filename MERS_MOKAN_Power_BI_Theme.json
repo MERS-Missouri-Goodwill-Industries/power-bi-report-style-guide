@@ -1,0 +1,31 @@
+{
+  "name": "MERS MOKAN Goodwill Power BI Theme",
+
+  "dataColors": [
+    "#2a307b",
+    "#F29E4C",
+    "#F03B50",
+    "#A66999",
+    "#194790",
+    "#4AC5BB",
+    "#5e8033",
+    "#5F6B6D",
+    "#231f20",
+    "#FDFDF9"
+  ],
+
+  "background": "#FFFFFF",
+  "neutral": "#B2B09B",
+  "foreground": "#444444",
+  "good": "#5E8033",
+  "bad": "#F03B50",
+  "hyperlink": "#4AC5BB",
+  "visitedHyperlink": "#A66999",
+  "shapeStroke": "#333333",
+  "mapPushpin": "#F29E4C",
+  "tableAccent": "#5e8033",
+  "accent": "#F29E4C",
+  "disabledText": "#b3b3b3",
+  "maximum": "#2a307b",
+  "minimum": "#A66999"
+}
