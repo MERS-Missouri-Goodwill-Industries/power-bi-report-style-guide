@@ -1,3 +1,4 @@
+![mers logo] (SVG_MERS_logo_white_bg.svg)
 ### Power BI Report Style Guide
 
 # Style guide for consistent look and experience across reports so that the reporting portal feels more cohesive and professional.
