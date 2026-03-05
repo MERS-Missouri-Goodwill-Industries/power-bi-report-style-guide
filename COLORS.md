@@ -1,4 +1,4 @@
-All colors in this guide are drawn from the official MERS branding guide, with two exceptions: Critical Red (#C1272D) and the dark Success Green (#1E592F) were added to provide readable, distinctly semantic red and green indicators that the brand palette did not include.
+All colors in this guide are drawn from the official MERS branding guide, with three exceptions: Critical Red (#C1272D) and the dark Success Green (#1E592F) were added to provide readable, distinctly semantic red and green indicators, and Dark Gray (#404448) was added for high-contrast body text and structural elements that the brand palette did not include.
 
 ### Primary Brand Identity
 
@@ -10,13 +10,21 @@ These colors establish the core authority and "portal" feel of the reports.
 | Light Blue | ![#8FD0FF](https://placehold.co/15x15/8FD0FF/8FD0FF.png) `#8FD0FF` | A primary support color used for subtle backgrounds or highlight areas. |
 | White | ![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF` | Used as the primary report background to ensure a clean, high-contrast workspace. |
 
+### Neutral Colors
+
+Structural colors for text, borders, axes, and backgrounds.
+
+| Name | Color | Description |
+|------|-------|-------------|
+| Dark Gray | ![#404448](https://placehold.co/15x15/404448/404448.png) `#404448` | Used for body text, axes, and structural elements on white or light backgrounds. |
+| Gray | ![#9BA0A3](https://placehold.co/15x15/9BA0A3/9BA0A3.png) `#9BA0A3` | Suited for subdued backgrounds, gridlines, decorative borders, and de-emphasized elements. Passes WCAG AAA as a background for black text. |
+
 ### Data & Functional Palette
 
 These secondary colors are used to differentiate data categories in charts and graphs. For multi-series charts, rotate through these colors in a consistent order to maintain readability.
 
 | Name | Color | Description |
 |------|-------|-------------|
-| Gray | ![#9BA0A3](https://placehold.co/15x15/9BA0A3/9BA0A3.png) `#9BA0A3` | Ideal for neutral data points, axes, and secondary borders. |
 | Orange | ![#FD9D0D](https://placehold.co/15x15/FD9D0D/FD9D0D.png) `#FD9D0D` | A high-visibility color for secondary data series. |
 | Green | ![#82C341](https://placehold.co/15x15/82C341/82C341.png) `#82C341` | A vibrant accent color for data series differentiation. |
 | Yellow | ![#FBD54B](https://placehold.co/15x15/FBD54B/FBD54B.png) `#FBD54B` | A warm accent color for additional data series. |
