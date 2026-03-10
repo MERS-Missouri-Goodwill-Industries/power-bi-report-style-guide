@@ -30,12 +30,7 @@
 2. Microcopy: "Click the button below to reset all filters and dates."
 
 - Chart coloring
-  "background": "#FFFFFF"
-  "neutral": "#B2B09B"
-  "good": "#5E8033"
-  "bad": "#F03B50"
-  "hyperlink": "#4AC5BB"
-  "visitedHyperlink": "#A66999"
+  Plese refer to the COLORS.md file for color guidelines.
 
 - Panel use and bordering
 1. Allow 10 to 15 pixels between visuals and whitespace around the sides and the bottom
