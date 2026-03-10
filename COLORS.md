@@ -43,6 +43,18 @@ These colors are used for status indicators and key performance indicators. Dark
 | Yellow | N/A | ![#FBD54B](https://placehold.co/15x15/FBD54B/FBD54B.png) `#FBD54B` | Reserved for "Warning" states or as a highlight accent. Light-only — warning indicators are typically used for background highlights and sigils with dark text, and a dark yellow would risk confusion with the Orange data series color. |
 | Success Green | ![#1E592F](https://placehold.co/15x15/1E592F/1E592F.png) `#1E592F` | ![#82C341](https://placehold.co/15x15/82C341/82C341.png) `#82C341` | The definitive "Positive/Success" status indicator. The dark variant is a "Forest Green" that pulls in a hint of the blue's DNA, feeling authoritative and on-family with MERS Blue while providing crisp contrast for white text. The light variant uses the brand's vibrant Green directly. |
 
+### Links
+
+All links are colored in Primary Blue (![#0065A4](https://placehold.co/15x15/0065A4/0065A4.png) `#0065A4`). Visited and unvisited links use the same color — in a Power BI report context there is no meaningful "visited" state, so a single consistent treatment keeps the interface clean.
+
+| State | Color | Description |
+|-------|-------|-------------|
+| Default | ![#0065A4](https://placehold.co/15x15/0065A4/0065A4.png) `#0065A4` | Standard link color, matching Primary Blue. Applied identically to visited and unvisited links. |
+| Hover | ![#00263E](https://placehold.co/15x15/00263E/00263E.png) `#00263E` | 20 points darker on the HSL lightness scale (L 32 → 12). Provides tactile feedback that the element is interactive. |
+
+* **External links:** Append a small unicode arrow (↗) after the link text as a visual cue that the destination is outside the report (e.g., "View documentation ↗").
+* **Consistency:** Every link in the report should follow these same color and behavior rules — no one-off styles. Predictable interaction patterns build user trust and reduce cognitive load.
+
 ### Brown from the Branding Guide
 
 The Brown (#A35C44) was primarily omitted from the initial data visualization palette to maintain a high-contrast, professional "portal" aesthetic that favors cooler blues and vibrant secondary colors.
