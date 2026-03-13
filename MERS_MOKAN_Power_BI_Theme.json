@@ -1,31 +1,50 @@
 {
-  "name": "MERS MOKAN Goodwill Power BI Theme",
-
+  "name": "MERS Theme",
   "dataColors": [
-    "#2a307b",
-    "#F29E4C",
-    "#F03B50",
-    "#A66999",
-    "#194790",
-    "#4AC5BB",
-    "#5e8033",
-    "#5F6B6D",
-    "#231f20",
-    "#FDFDF9"
+    "#0065A4",
+    "#FD9D0D",
+    "#C1272D",
+    "#82C341",
+    "#929CD0",
+    "#00263E",
+    "#404448",
+    "#CCE8F5",
+    "#FFFFFF",
+    "#F0F6FB"
   ],
-
-  "background": "#FFFFFF",
-  "neutral": "#B2B09B",
-  "foreground": "#444444",
-  "good": "#5E8033",
-  "bad": "#F03B50",
-  "hyperlink": "#4AC5BB",
-  "visitedHyperlink": "#A66999",
-  "shapeStroke": "#333333",
-  "mapPushpin": "#F29E4C",
-  "tableAccent": "#5e8033",
-  "accent": "#F29E4C",
-  "disabledText": "#b3b3b3",
-  "maximum": "#2a307b",
-  "minimum": "#A66999"
+  "textClasses": {
+    "title": {
+      "fontFace": "DIN",
+      "color": "#000000"
+    },
+    "header": {
+      "fontFace": "DIN",
+      "color": "#000000"
+    },
+    "callout": {
+      "fontFace": "DIN",
+      "color": "#000000"
+    },
+    "label": {
+      "fontFace": "DIN",
+      "color": "#000000"
+    }
+  },
+  "secondaryBackground": "#F0F6FB",
+  "good": "#1E592F",
+  "neutral": "#FBD54B",
+  "center": "#FBD54B",
+  "hyperlink": "#0065A4",
+  "visitedHyperlink": "#0065A4",
+  "accent": "#00263E",
+  "secondLevelElements": "#404448",
+  "thirdLevelElements": "#9BA0A3",
+  "shapeStroke": "#404448",
+  "disabledText": "#9BA0A3",
+  "tableAccent": "#9BA0A3",
+  "maximum": "#0065A4",
+  "foregroundSelected": "#0065A4",
+  "foregroundButton": "#8FD0FF",
+  "foregroundDark": "#00263E",
+  "mapPushpin": "#00263E"
 }
