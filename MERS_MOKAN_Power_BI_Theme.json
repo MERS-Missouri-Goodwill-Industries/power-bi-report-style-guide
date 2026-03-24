@@ -30,7 +30,7 @@
       "color": "#000000"
     }
   },
-  "secondaryBackground": "#F0F6FB",
+  "secondaryBackground": "#8FD0FF",
   "good": "#1E592F",
   "neutral": "#FBD54B",
   "center": "#FBD54B",
@@ -44,7 +44,7 @@
   "tableAccent": "#9BA0A3",
   "maximum": "#0065A4",
   "foregroundSelected": "#0065A4",
-  "foregroundButton": "#8FD0FF",
+  "foregroundButton": "#0065A4",
   "foregroundDark": "#00263E",
   "mapPushpin": "#00263E"
 }

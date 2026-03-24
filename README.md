@@ -34,3 +34,4 @@
 
 - Panel use and bordering
 1. Allow 10 to 15 pixels between visuals and whitespace around the sides and the bottom
+2. Make any rounded corners at least 5px
